@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animal_MakeSound", "Animal_MakeSound\Animal_MakeSound.vcxproj", "{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Debug|x64.ActiveCfg = Debug|x64
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Debug|x64.Build.0 = Debug|x64
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Debug|x86.Build.0 = Debug|Win32
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Release|x64.ActiveCfg = Release|x64
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Release|x64.Build.0 = Release|x64
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Release|x86.ActiveCfg = Release|Win32
+		{BD0BCFCF-A221-4AB0-A1E6-1A10DC63146C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331810D0-D458-4E7D-9508-800F97969DEF}
+	EndGlobalSection
+EndGlobal
